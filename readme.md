@@ -6,9 +6,9 @@
 
 ## An Interesting Webpage：[https://tangyicao.github.io/love](https://tangyicao.github.io/love)
 
-## Memorial Day：[http://8.137.10.44](https://8.137.10.44)
+## Memorial Day：[http://8.137.10.44](http://8.137.10.44)
 
-## Personal Blog：[https://rainbowx.top](https://rainbowx.top)
+## Personal Blog：[http://rainbowx.top](http://rainbowx.top)
 
 website pictures' bed loading status test：
 
